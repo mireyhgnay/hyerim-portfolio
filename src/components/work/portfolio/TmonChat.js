@@ -4,7 +4,7 @@ import imgUrl from '../../../images/tmon_chat.jpeg';
 
 const children = [
   "티몬 고객과 판매자가 직접 소통할 수 있는 채팅 플랫폼 구축하게 되어 작업하였습니다",
-  "기여도 : Mobile 50% / PC 50%",
+  "기여도 : Mobile 50% / PC 80%",
   "HTML, SASS, JavaScript, Gulp, Zeplin"
 ];
 
