@@ -10,7 +10,7 @@ const children = [
 
 export default () => (
   <Poster
-    title= "TMON SERVICE"
+    title= "TMON"
     subtitle = "TMON"
     imageUrl= {imgUrl}
     description= {children[0]}

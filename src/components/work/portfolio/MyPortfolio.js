@@ -16,7 +16,7 @@ export default () => (
     description= {children[0]}
     contribution = {children[1]}
     skill= {children[2]}
-    webUrl= "https://github.com/mireyhgnay/my-portfolio"
+    webUrl= "https://github.com/mireyhgnay/hyerim-portfolio"
   >
   </Poster>
 );
