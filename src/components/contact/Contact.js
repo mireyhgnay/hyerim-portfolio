@@ -104,7 +104,7 @@ const Contact = () => {
             <a href="https://github.com/mireyhgnay" className="contact_link" target="_blank">Github</a>
           </li>
           <li className="contact_item">
-            <a href="https://hyerimiya.notion.site/h1-HYERIM-CODING-h1-9f27a0562a98442fa052be02c2bc3e8e" className="contact_link" target="_blank">Dev Blog</a>
+            <a href="https://hyerimiya-main.notion.site/HYERIMIYA-CODING-49f0920614764b13949932b4dfda847e" className="contact_link" target="_blank">Study Notion</a>
           </li>
           <li className="contact_item">
             <a href="https://blog.naver.com/did3296" className="contact_link" target="_blank">Daily Blog</a>

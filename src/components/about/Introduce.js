@@ -147,7 +147,7 @@ const Introduce = () => {
           <li className="intro_item">
             평소 메모하는 것이 습관화 되어있어 일상, 여행, 개발공부 등을&nbsp; 
             <a href="https://blog.naver.com/did3296" className="blog_link" target="_blank">일상 블로그</a> / &nbsp;
-            <a href="https://hyerimiya.notion.site/h1-HYERIM-CODING-h1-9f27a0562a98442fa052be02c2bc3e8e" className="blog_link" target="_blank">개발 블로그</a>에 기록하고있습니다.
+            <a href="https://hyerimiya-main.notion.site/HYERIMIYA-CODING-49f0920614764b13949932b4dfda847e" className="blog_link" target="_blank">개인 노션</a>에 기록하고있습니다.
           </li>
         </ul>
       </Text>

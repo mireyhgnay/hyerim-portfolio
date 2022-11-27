@@ -42,7 +42,7 @@ const Footer = () => {
   return (
     <FooterBlock>
       <div className="footer_inner">
-        <span className="footer_text">DESIGN</span>
+        <span className="footer_text">ANIMATION</span>
         <span className="footer_text">FRONTEND</span>
         <span className="footer_text">COMMUNICATION</span>
       </div>

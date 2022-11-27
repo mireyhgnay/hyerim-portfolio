@@ -3,9 +3,9 @@ import Poster from "../Poster";
 import imgUrl from '../../../images/github.png';
 
 const children = [
-  "제 깃헙에 들어가 더 많은 포트폴리오를 볼 수 있습니다. 앞으로 계속 공부하고 만들어 갑니다!",
-  "Hyerim's Github",
-  "Git"
+  "제 깃헙에 들어가 더 많은 포트폴리오를 볼 수 있습니다",
+  "앞으로 계속 공부하고 만들어 갑니다!",
+  "hyerimiya Github"
 ];
 
 export default () => (

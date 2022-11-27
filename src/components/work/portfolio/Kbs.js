@@ -3,8 +3,8 @@ import Poster from "../Poster";
 import imgUrl from '../../../images/kbs.png';
 
 const children = [
-  "KBS 방송기술웹진 사내 홈페이지 리뉴얼 및 유지 보수 운영",
-  "기여도 : Responsive 100% / Design 100%",
+  "KBS 사내 홈페이지 리뉴얼 개발 작업 및 유지 보수 운영",
+  "기여도 : 100%",
   "HTML, CSS, JavaScript, JQuery, Photoshop, Illustrator"
 ];
 
@@ -16,7 +16,7 @@ export default () => (
     description= {children[0]}
     contribution = {children[1]}
     skill= {children[2]}
-    webUrl= "https://hyerimiya.notion.site/KBS-77c8b7c35b3542d2b0885c1f8e1266c9"
+    webUrl= "https://hyerimiya.notion.site/KBS-74e3c1d520204615b75b3fb18fe7989a"
   >
   </Poster>
 );

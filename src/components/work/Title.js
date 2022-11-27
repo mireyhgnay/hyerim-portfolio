@@ -4,9 +4,9 @@ import styled from 'styled-components';
 const TitleBlock = styled.h2`
     width: 100%;
     height: auto;
-    margin-bottom: 150px;
+    margin: 0 0 150px 0;
     text-align: center;
-    font-size: 9rem;
+    font-size: 7rem;
     font-family: 'Montserrat', sans-serif;
     color: #ff2817;
     letter-spacing: 2rem;

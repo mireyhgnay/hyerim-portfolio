@@ -1,9 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
 import TmonTour from './portfolio/TmonTour';
-import TypingGame from './portfolio/TypingGame';
-import FanPage from './portfolio/FanPage';
-import DogBreeds from './portfolio/DogBreeds';
 import MyPortfolio from './portfolio/MyPortfolio';
 import Ready from './portfolio/Ready';
 import TmonSub from './portfolio/TmonSub';
@@ -13,7 +10,6 @@ import TmonPreorder from './portfolio/TmonPreorder';
 import Tmon from './portfolio/Tmon';
 import Kbs from './portfolio/Kbs';
 import KbsDesign from './portfolio/KbsDesign';
-import Lotto from './portfolio/Lotto';
 
 const ProjectBlock = styled.section`
   width: 100%;
@@ -64,16 +60,6 @@ const Project = () => {
       <PosterBlock>
         <Kbs></Kbs>
         <KbsDesign></KbsDesign>
-      </PosterBlock>
-      
-      <PosterBlock>
-        <TypingGame></TypingGame>
-        <Lotto></Lotto>
-      </PosterBlock>
-
-      <PosterBlock>
-        <DogBreeds></DogBreeds>
-        <FanPage></FanPage>
       </PosterBlock>
 
       <PosterBlock>

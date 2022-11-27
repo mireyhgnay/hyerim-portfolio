@@ -3,9 +3,9 @@ import Poster from "../Poster";
 import imgUrl from '../../../images/port.jpg';
 
 const children = [
-  "React로 제작한 저를 소개하는 포트폴리오입니다. 기획/디자인/코딩/배포 까지 모두 혼자 제작한 프로젝트입니다.",
+  "React로 제작한 저를 소개하는 포트폴리오입니다",
   "기여도 : 100%",
-  "React, React Hooks, Router, styled-components, CSS, react-icons",
+  "React, styled-components, Router, react-icons"
 ];
 
 export default () => (

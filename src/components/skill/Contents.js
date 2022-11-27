@@ -52,15 +52,15 @@ const Contents = () => {
     <ContentsBlock>
       <p className="text">
         <strong className="title">FrontEnd</strong>
-        <span className="desc">항상 새로운 기술을 공부하고, 자기개발 하는 것을 좋아합니다.</span>
+        <span className="desc">항상 새로운 기술을 공부하고, 자기계발 하는 것을 좋아합니다.</span>
       </p>
       <p className="text">
-        <strong className="title">Design</strong>
-        <span className="desc">UX/UI 그리고 재미있는 효과들을 흥미롭게 생각하고 고민합니다.</span>
+        <strong className="title">Animation</strong>
+        <span className="desc">재미있는 효과들을 흥미롭게 생각하고 고민합니다.</span>
       </p>
       <p className="text">
         <strong className="title">Communication</strong>
-        <span className="desc">사람들과의 대화를 좋아합니다. 기획자/디자이너/개발자 사이에서의 소통이 원활합니다.</span>
+        <span className="desc">사람들과의 대화를 좋아하고, 기획자/디자이너/개발자 사이에서의 소통이 원활합니다.</span>
       </p>
     </ContentsBlock>
   )

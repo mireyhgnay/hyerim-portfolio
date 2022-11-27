@@ -16,7 +16,7 @@ export default () => (
     description= {children[0]}
     contribution = {children[1]}
     skill= {children[2]}
-    webUrl= "https://hyerimiya.notion.site/TMON-755728124fb448ad84dc3c9724b476a8"
+    webUrl= "https://hyerimiya.notion.site/568980ac5e974f3dab887b725479a891"
   >
   </Poster>
 );

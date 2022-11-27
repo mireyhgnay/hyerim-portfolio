@@ -81,15 +81,13 @@ const Skills = () => {
           <li>SASS/SCSS</li>
           <li>JavaScript</li>
           <li>JQuery</li>
+          <li>Git</li>
           <li>React</li>
-          <li>Git/Github</li>
-          <li>Sourcetree</li>
-          <li>Gulp</li>
           <li>Zeplin/Figma</li>
           <li>Photoshop</li>
           <li>Illustrator</li>
           <li>Jira/Bitbucket/Wiki</li>
-          <li className="skill_etc">React-hooks, styled-components, Axios, Redux-saga, mobX, heroku</li>
+          <li className="skill_etc">Gulp, Webpack, React-icons, styled-components, heroku</li>
         </ul>
       </LanguageBox>
 
